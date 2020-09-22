@@ -5,5 +5,3 @@ My name is Felix Schneider and I'm a software developer from Germany. My main pr
 - C++
 - PHP
 - JavaScript
-
-You can reach me via my e-mail: felix.schneider@wimmelbach.de
