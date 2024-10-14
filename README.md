@@ -28,4 +28,4 @@ I enjoy getting to know new people and having conversations about **eCommerce de
 
 ---
 
-**Thanks for stopping by!** :grinning_face_with_smiling_eyes:
+**Thanks for stopping by!** :grin:
