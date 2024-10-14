@@ -1,4 +1,4 @@
-# Hi there! :waving_hand: I'm Felix
+# Hi there! :wave: I'm Felix
 
 I'm a **backend web developer** specializing in **Shopware 6**, **PHP**, **Go**, and **JavaScript**. I work full-time at [**WIRDUZEN**](https://wirduzen.digital), crafting custom solutions for eCommerce projects and contributing to the Shopware ecosystem.
 
